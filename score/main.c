@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h> //angular/long paranthesis for standard headers
 #include "score.h"
+//this project handles the scores of an exam
 
 int main(void) {
 	FILE* fp; //FILE *fopen( const char * filename, const char * mode ); <<-- could also be done this way, it's how we open a file

@@ -10,4 +10,4 @@ void resetColors(void);
 //void setForeground(int);
 void setBackground(int);
 void printHistogram(int a[], int c, int h[], int COLORS[]);
-void histogram(int a[], int c, int h[]);
+void histogram(int a[], int c, int h[]); //change2 

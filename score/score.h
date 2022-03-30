@@ -1,4 +1,5 @@
 #pragma once
+// we have only one constant definition in this header
 #define MAX 50
 enum COLORS { BLACK = 30, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE};
 void sort_score(int a[], int c);
